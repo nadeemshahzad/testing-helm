@@ -1,4 +1,5 @@
-time: 20
-name: redis
-image: redis
-sa: yahoo
+demo:
+ time: 20
+ name: redis
+ image: redis
+ sa: yahoo
