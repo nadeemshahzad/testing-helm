@@ -9,6 +9,6 @@ entries:
     name: demo
     type: application
     urls:
-    - https://github.com/nadeemshahzad/testing-helm.git/demo-0.1.0.tgz
+    - demo-0.1.0.tgz
     version: 0.1.0
 generated: "2024-01-12T08:39:18.188792+05:00"
